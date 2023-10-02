@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.btn {
+  background-color: #f8fafc;
+  color: #303150;
+  height: 35px;
+  width: 130px;
+  border-radius: 10px;
+  border: 0px;
+}
